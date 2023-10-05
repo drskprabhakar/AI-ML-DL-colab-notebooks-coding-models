@@ -3316,7 +3316,7 @@
         "# prediction model regression equation\n",
         "## y = m1*X1 + m2*X2 +b\n",
         "## predicted axial length (y) = m1*KH+m2*KV+b\n",
-        "## y = 0.329*KH + 0.146*KV + 1.510"
+        "## y = 0.279*KH + 0.159*KV + 3.191"
       ]
     },
     {
@@ -3333,7 +3333,7 @@
     "colab": {
       "provenance": [],
       "mount_file_id": "1Y_ZK4RpgPqg_Fua81YqIa6ZuuC6-a6eS",
-      "authorship_tag": "ABX9TyOQ1+hdaaVA16iGWMALlXw8",
+      "authorship_tag": "ABX9TyNVCHy9qIKPmMzE8s+nNple",
       "include_colab_link": true
     },
     "kernelspec": {
